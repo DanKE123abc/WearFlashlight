@@ -37,7 +37,7 @@
                 android:textAlignment="center"
                 android:textColor="#F4F4F4"
                 android:textSize="12sp"
-                tools:text="WearFlashlight v1.0" />
+                tools:text="WearFlashlight v1.1" />
 
             <TextView
                 android:id="@+id/textView6"
