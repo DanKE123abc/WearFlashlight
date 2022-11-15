@@ -33,7 +33,7 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="WearFlashlight"
+                android:text="WearFlashlight v1.2"
                 android:textAlignment="center"
                 android:textColor="#F4F4F4"
                 android:textSize="12sp"
