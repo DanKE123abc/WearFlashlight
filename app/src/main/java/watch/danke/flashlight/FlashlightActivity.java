@@ -17,15 +17,12 @@ public class FlashlightActivity extends AppCompatActivity {
         setBrightness(this,255);
     }
 
+
     public static void setBrightness(Activity activity, int brightness) {//亮度调节
         WindowManager.LayoutParams lp = activity.getWindow().getAttributes();
         lp.screenBrightness = Float.valueOf(brightness) * (1f / 255f);
         activity.getWindow().setAttributes(lp);
     }
 
-    public void Close(View view){
-        Intent intent = new Intent();
-        intent.setClass(FlashlightActivity.this,MainActivity.class);
-        startActivity(intent);
-    }
+
 }
