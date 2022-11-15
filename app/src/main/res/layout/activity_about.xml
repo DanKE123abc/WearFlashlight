@@ -52,6 +52,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="\n部分素材来自网络\n版权归原作者所有\n注意：\n如果你使用本应用造成任何后果，开发者概不负责！"
                 android:textAlignment="center"
                 android:textColor="#F4F4F4"
                 android:textSize="12sp"
@@ -61,6 +62,7 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="遵循MIT开源协议\nhttps://github.com/DanKE123abc/WearFlashlight"
                 android:textAlignment="center"
                 android:textColor="#F4F4F4"
                 android:textSize="12sp"
@@ -77,6 +79,7 @@
                 android:id="@+id/textView5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="开发者：蛋壳（DanKe）\n\n"
                 android:textAlignment="center"
                 android:textColor="#F4F4F4"
                 android:textSize="12sp"
